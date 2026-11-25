@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["QVRDB35456.app.batchfox.mobile.ios"],
+        "components": [
+          { "/": "/m/signed-in/", "comment": "phone sign-in return only" }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["QVRDB35456.app.batchfox.mobile.ios"]
+  }
+}
